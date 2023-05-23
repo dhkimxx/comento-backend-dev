@@ -10,14 +10,17 @@
 4. Hello World 출력
 5. mariaDB, mySql WorkBench 설치 및 샘플 DB 구축
 6. 스프링, Mariadb, MyBatis 연동, 데이터 조회
+
 ---
 
 - ### [2주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md)
 **프론트엔드 개발자와 백엔드 개발자의 협업 이해하기**
+
 ---
 
 - ### [3주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md)
 **RestController를 활용한 간단 API 구현**
+
 ---
 
 - ### [4주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md)
