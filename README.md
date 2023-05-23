@@ -3,7 +3,7 @@
 ---
 
 - ### [1주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md)
-**스프링 부트가 스프링과 비교하여 얼마나 편리성을 줄지 체감하기 위해서 스프링 개발환경 구축 진행
+**스프링 부트가 스프링과 비교하여 얼마나 편리성을 줄지 체감하기 위해서 스프링 개발환경 구축 진행**
 1. JDK 1.8 설치
 2. Eclipse, Spring 다운로드 및 설치
 3. 톰캣 설정
@@ -13,11 +13,11 @@
 ---
 
 - ### [2주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md)
-**프론트엔드 개발자와 백엔드 개발자의 협업 이해하기
+**프론트엔드 개발자와 백엔드 개발자의 협업 이해하기**
 ---
 
 - ### [3주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md)
-**RestController를 활용한 간단 API 구현
+**RestController를 활용한 간단 API 구현**
 ---
 
 - ### [4주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md)
