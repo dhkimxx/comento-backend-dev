@@ -4,12 +4,12 @@
 
 - ### [1주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md): 개발환경 세팅
     스프링 부트가 스프링과 비교하여 얼마나 편리성을 줄지 체감하기 위해서 스프링 개발환경 구축 진행
-    1. [JDK 1.8 설치](https://www.notion.so/1-1-JDK-1-8-6f2d3c7e3a2e4dbb826bb3130c279c0e)
-    2. [Eclipse, Spring 다운로드 및 설치](https://www.notion.so/1-2-Eclipse-Spring-309b4b015ccb4725a623eced1ebb313d)
-    3. [톰캣 설정](https://www.notion.so/1-3-7b185e065a7042b9bef4245a2e74c021)
-    4. [Hello World 출력](https://www.notion.so/1-4-Hello-World-0feb00aa22d54dcd82224b872b12ede9)
-    5. [mariaDB, mySql WorkBench 설치 및 샘플 DB 구축](https://www.notion.so/1-5-mariadb-mySql-Workbench-DB-c74db42d74cb4e0d8554b27dbff6e79f)
-    6. [스프링, Mariadb, MyBatis 연동, 데이터 조회](https://www.notion.so/1-6-Mariadb-MyBatis-c502f792d334424894772947df61e122)
+    1. JDK 1.8 설치
+    2. Eclipse, Spring 다운로드 및 설치
+    3. 톰캣 설정
+    4. Hello World 출력
+    5. mariaDB, mySql WorkBench 설치 및 샘플 DB 구축
+    6. 스프링, Mariadb, MyBatis 연동, 데이터 조회
 
 - ### [2주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md): 프론트엔드 개발자와 백엔드 개발자의 협업 이해하기
 
