@@ -13,7 +13,7 @@
 
 ---
 
-- ### [2주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md)
+- ### [2주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md)
 **프론트엔드 개발자와 백엔드 개발자의 협업 이해하기**
 
 ---
