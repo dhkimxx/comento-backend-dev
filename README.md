@@ -19,7 +19,7 @@ API 명세서 작성: [코멘토 직무부트캠프 API 가이드 문서](https:
 
 ---
 
-- ### [3주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md)
+- ### [3주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.md)
 **RestController를 활용한 간단 API 구현**
 
 ---
