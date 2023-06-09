@@ -15,7 +15,7 @@
 
 - ### [2주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md)
 **프론트엔드 개발자와 백엔드 개발자의 협업 이해하기**  
-API 명세서 작성: [코멘토 직무부트캠프 API 가이드 문서](https://github.com/dhkimxx/comento-backend-dev/blob/main/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C/%EC%BD%94%EB%A9%98%ED%86%A0%20%EC%A7%81%EB%AC%B4%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20API%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%AC%B8%EC%84%9C.pdf)
+API 명세서 작성: [코멘토 직무부트캠프 API 가이드 문서](https://github.com/dhkimxx/comento-backend-dev/blob/main/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C/%E1%84%8F%E1%85%A9%E1%84%86%E1%85%A6%E1%86%AB%E1%84%90%E1%85%A9%20%E1%84%8C%E1%85%B5%E1%86%A8%E1%84%86%E1%85%AE%E1%84%87%E1%85%AE%E1%84%90%E1%85%B3%E1%84%8F%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B3%20API%20%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%20%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%20v2.0.pdf)
 
 ---
 
