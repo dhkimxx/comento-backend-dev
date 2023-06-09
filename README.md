@@ -24,7 +24,8 @@ API 명세서 작성: [코멘토 직무부트캠프 API 가이드 문서](https:
 
 ---
 
-- ### [4주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.md)
+- ### [4주차 과제](https://github.com/dhkimxx/comento-backend-dev/blob/main/4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.md))
+- 
 1. 3차과제에서 작성한 API와 SQL(5가지)를 중심으로 API를 개발합니다.
 2. 완성된 API를 가지고 2차 과제로 진행했던 API가이드 문서를 보완하여 완성합니다.
 3. **휴일을 제외한 로그인 수의 경우 단순 쿼리가 아닌 자바코드를 조합하여 코드를 작성합니다.**
